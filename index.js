@@ -1,3 +1,8 @@
+/*
+This script is made by github.com/revenant-coding
+If you want to use it, please mention me.
+*/
+
 const Discord = require('discord.js');
 const client = new Discord.Client()
 const request = require('request')
