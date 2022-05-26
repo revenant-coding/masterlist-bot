@@ -15,7 +15,7 @@ Setup:
 4. Put your Discord Bot token at the bottom of the file. (index.js)
 5. Start the bot via 'node .' in the command prompt.
 
-````bash
+```bash
   node .
 ```
 
