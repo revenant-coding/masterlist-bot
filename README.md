@@ -8,11 +8,15 @@ Setup:
 ```bash
   npm i
 ```
-or
+ or
 ```bash
   npm install
 ```
 4. Put your Discord Bot token at the bottom of the file. (index.js)
 5. Start the bot via 'node .' in the command prompt.
+
+````bash
+  node .
+```
 
 Now you can use '.ragemp / .altv <argument>' on you Discord Server
