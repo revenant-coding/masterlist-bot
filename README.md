@@ -1,5 +1,5 @@
 # Masterlist Bot
-Basic Discord Bot to request the AltV / RageMP API
+Basic Discord Bot to request the AltV / RageMP Masterlist API
 
 Setup:
 1. Make sure you've installed NodeJS on your device.
